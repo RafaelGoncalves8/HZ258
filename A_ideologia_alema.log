@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.5)  8 DEC 2018 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.5)  12 DEC 2018 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -144,20 +144,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--14
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./A_ideologia_alema.aux) ) 
 Here is how much of TeX's memory you used:
- 1350 strings out of 492642
- 18279 string characters out of 6135567
+ 1353 strings out of 492642
+ 18310 string characters out of 6135567
  97092 words of memory out of 5000000
- 5270 multiletter control sequences out of 15000+600000
- 8734 words of font info for 21 fonts, out of 8000000 for 9000
+ 5271 multiletter control sequences out of 15000+600000
+ 10418 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,32p,319b,115s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,4n,32p,415b,115s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<
 /usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb>
-Output written on A_ideologia_alema.pdf (2 pages, 28061 bytes).
+onts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on A_ideologia_alema.pdf (2 pages, 40366 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
