@@ -16,3 +16,19 @@ Considerando a bibliografia discutida e indicada em aula, usando o trecho como g
 
 Considerando a leitura da A Ideologia Alemã e O Capital, usando o trecho como guia, comente a visão do autor.
 
+## Referências
+
+### Hegel
+
+- MICHAEL INWOOD. Dicionário Hegel
+- **HEGEL. Enciclopédia das Ciências Filosóficas - Livro 1: A Ciência da Lógica - Introdução (parágrafos 1 a 18)**
+- HEGEL. Fenomenologia do espírito (Apresentação)
+- SINNERBRINK. Hegelianismo - Introdução
+- **HEGEL. Enciclopédia das C. F. - A doutrina da essência - As puras determinações da reflexão**
+
+### Marx
+- Editado por Tom Bottomore. Dicionário do pensamento marxista
+- **MARX. Manuscritos Econômico-Filosóficos**
+- **MARX. A Ideologia Alemã (Edição Boitempo, p. 9-87, 523-539)**
+- **MARX. Grundrisse (O método da economia política)**
+- **MARX. O Capital (cap. 1-4)**
